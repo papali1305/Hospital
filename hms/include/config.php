@@ -1,0 +1,15 @@
+
+<?php
+$host = "localhost"; // Ensure MySQL is running on localhost
+$user = "root"; // Default user
+$password = ""; // Default password for XAMPP is empty
+$database = "hms"; // Ensure the database name is correct
+
+// Create connection
+$con = new mysqli($host, $user, $password, $database);
+
+// Check connection
+if ($con->connect_error) {
+    die("Connection failed: " . $con->connect_error);
+}
+?>

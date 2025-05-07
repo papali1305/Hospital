@@ -1,0 +1,10 @@
+
+All Login Details
+
+Login Details for admin : admin/123456
+
+Login Details for Patient: mamono@gmail.com/123456
+
+Login Details for Doctor: anu@gmail.com/123456
+
+
